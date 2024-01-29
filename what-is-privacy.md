@@ -33,7 +33,7 @@ I believe he should disclose them, for many reasons:
 3. Potentially violates the fourth, fifth, and ninth.
 ## Why he shouldn't
 1. Tax returns are the financial behaviors of an individual
-2. The types of information related to privacy include behaviorial and *financial information*
+2. The types of information related to privacy include behavioral and *financial information*
 ## Contact Tracing and Privacy
 1. What information is being kept private
 2. Is a centralized or distributed system used?
@@ -67,8 +67,20 @@ I believe he should disclose them, for many reasons:
     3. More and more information is online
 2. Societal shifts
     1. Discontinuities of circumstance
-        1. Events and emergent concerns that transform the national debate about privacy in a very short time
-        
-
+        1. Events and emergent concerns that transform the national debate about privacy in a short time
+## Definition of Privacy
+Privacy is a concept that acquires specific meaning only in the context of specific circumstances and settings.
+## Focuses of the book for this class
+1. This book focuses on privacy and its intersections with information technology and associated social and technology trend.
+2. It provides ways to think about privacy, its relationship to other values, and related tradeoffs
+## Privacy is an ill-defined but apparently well understood concept.
+1. People use the term to mean a variety of things
+2. Most people using the term believe that others share their particular definition.
+*Make sure to define your understanding of privacy before discussing the issue*
+## Privacy and Academic Research
+1. Privacy concerns also interact with sociological and policy research
+2. In order to conduct these kinds of research, substantial amounts of personal information are often necessary
+3. Confirmed consent is required at the University of Pittsburgh
+4. Otherwise, it is illegal!
 
 
